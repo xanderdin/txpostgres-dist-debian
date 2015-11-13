@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 11 Sep 2015 22:55:10 +0300
+Source: txpostgres
+Binary: python-txpostgres
+Architecture: source
+Version: 1.4.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Alexander Pravdin <aledin@mail.ru>
+Changed-By: Alexander Pravdin <aledin@mail.ru>
+Description:
+ python-txpostgres - Twisted wrapper for asynchronous PostgreSQL connections
+Changes:
+ txpostgres (1.4.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.2
+Checksums-Sha1:
+ e151790a3e2362acede2df7ca9bce8a3c6dccd64 832 txpostgres_1.4.0-1.dsc
+ d17c5974a1e438afe2db291d0e3ac8fe13c953be 28403 txpostgres_1.4.0.orig.tar.gz
+ 777673f465b8e195a52bde4f107618e854929239 956 txpostgres_1.4.0-1.debian.tar.xz
+Checksums-Sha256:
+ bc084522523d5e10eb7b891ca83934ae70a00e9ac000e773d911eb79519f5616 832 txpostgres_1.4.0-1.dsc
+ 356b5e15fd929b097eb6742df187fa75d94aaefb4adc2a43491c472b10cbb729 28403 txpostgres_1.4.0.orig.tar.gz
+ cae009ac00286b94aa5cced032cba135e26132dd35934117e3c3ea316971171f 956 txpostgres_1.4.0-1.debian.tar.xz
+Files:
+ f0d136ab4cb24a5a4659fcace31f811c 832 python optional txpostgres_1.4.0-1.dsc
+ da51d1747753588add7a20d5ad49e2f5 28403 python optional txpostgres_1.4.0.orig.tar.gz
+ e63e96a3abf58919241f3ff9c3ac2058 956 python optional txpostgres_1.4.0-1.debian.tar.xz

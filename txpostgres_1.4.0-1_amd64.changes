@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 11 Sep 2015 22:55:10 +0300
+Source: txpostgres
+Binary: python-txpostgres
+Architecture: source all
+Version: 1.4.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Alexander Pravdin <aledin@mail.ru>
+Changed-By: Alexander Pravdin <aledin@mail.ru>
+Description:
+ python-txpostgres - Twisted wrapper for asynchronous PostgreSQL connections
+Changes:
+ txpostgres (1.4.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.2
+Checksums-Sha1:
+ 05dbc94a9e4ce62f962958a3967f91b7cdd6f902 1713 txpostgres_1.4.0-1.dsc
+ d17c5974a1e438afe2db291d0e3ac8fe13c953be 28403 txpostgres_1.4.0.orig.tar.gz
+ a6362f758eca097a1b2e3041ddd26279b5d912f2 1724 txpostgres_1.4.0-1.debian.tar.xz
+ 3e83e40eee27485f22873349c9674f003e0f4c32 15240 python-txpostgres_1.4.0-1_all.deb
+Checksums-Sha256:
+ b71332760f1134b916f303c62df777d1fd7895a44a53a655d49528c69e0ee496 1713 txpostgres_1.4.0-1.dsc
+ 356b5e15fd929b097eb6742df187fa75d94aaefb4adc2a43491c472b10cbb729 28403 txpostgres_1.4.0.orig.tar.gz
+ 207666fd60d9f9c782267f8f6615ae7730cf1aa4c151349fe8759d86d4d9bd9e 1724 txpostgres_1.4.0-1.debian.tar.xz
+ e42519867e97fda1d04c7360649ab9ca13c8648e57fe7cfe59ff9e284bff8819 15240 python-txpostgres_1.4.0-1_all.deb
+Files:
+ 4f440d08f51f63a501377d22ebfa4706 1713 python optional txpostgres_1.4.0-1.dsc
+ da51d1747753588add7a20d5ad49e2f5 28403 python optional txpostgres_1.4.0.orig.tar.gz
+ 8684aa9e8c94e674aa6cff76f61e4a4a 1724 python optional txpostgres_1.4.0-1.debian.tar.xz
+ 9e466b1a2d3f6b86ef788b0cc1f76c9c 15240 python optional python-txpostgres_1.4.0-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJV8zz1AAoJEBsrqc7YIVDoc3EP/2y4gRT6a3nV6P5TGX/2EAt3
+Ryk/54oEsHPcEyj+HVm7vrKwUeCibb5DzOS5I7vO8yjzokJ5ANYq73fHiMTHmXky
+qIcDhXCIwbzMNLsaocu+ZJFxnYnPkAUydOOidrJJWTToiN5xeUJDCTpPXfReS2+6
+kdn6UHUvCpiXjnPyfZzOUy1QPyjd5/Md5ILUEABFJJ/+qMhynKeVyfKI739GmnSq
+KlB8P7EvSujiAShfz14T3IfAIUI8aAebyKoCcHznkf/bqfaXMu3sH0deLBqVY2HE
+4YnYKy/wGLSnUuJuB4a8P/TurXAZhrgVqvVigyOnOeWhDVc9T0WrPnMLg9SocqG4
+77PtlRqiPuJgM6Wq1+vkLSskye7Aw7JkdfoXZkPbw181q38q+CUmK3KlW8d9b/IO
+VcDZ2PF6Bw5uNlFjgG4k30sM1tZEMH6sAEEpNI0AXXG5SyYPQ0L9g826DMcssmvu
+/6D/2rgJ0mIK9e6VwowUEOOtmjMPvK3RdTVMeCuyZlFfT0ps3t0h/uG87DPITBDj
+o4yK8Cf/CKuYMGCpj42vKwVaS2HT/kxOrMZQkUbA29e/jDwL516uQQlG8wxRG7Vm
+DWUVI5Vuqwc22ygenv8wEezB4b9DAq/UOosn82y9hrG02GqdxodaE5k9Y0evOlUK
+dbk3SDM0xpEg0fKriaCc
+=9oO4
+-----END PGP SIGNATURE-----
